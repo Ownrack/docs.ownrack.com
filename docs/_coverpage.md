@@ -1,3 +1,3 @@
-# Ownrack <small>docs</small>
+![](https://ownrack.com/templates/ownrack/img/header/logo.png)
 
-[Getting Started](#docsify)
+[Getting Started](#Ownrack)

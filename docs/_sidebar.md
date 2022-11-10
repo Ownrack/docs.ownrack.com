@@ -1,30 +1,16 @@
 - <b>Media Server toolbox :tv: </b>
   - [SudoBox - Beta](sudobox.md)
-  - [PTS-MHA](more-pages.md)
+  - [PTS-MHA](pts-mha.md)
  
 - <b>Seedbox Tools :arrow_double_up: </b>
-  - [Swizzin](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Swizzin](swizzin.md)
 
 - <b>Monitoring and Cyber Security :closed_lock_with_key:</b>
 
-  - [KaliLinux](configuration.md)
-  - [Splunk Enterprise](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [Kali Linux](kali_linux.md)
+  - [Splunk Enterprise](splunk_enterprise.md)
 
-- Guide
+- <b>Gaming :video_game:</b>
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [Pterodactyl](pterodactyl.md)
+  
