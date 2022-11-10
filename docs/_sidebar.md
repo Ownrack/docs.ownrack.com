@@ -14,3 +14,6 @@
 
   - [Pterodactyl](pterodactyl.md)
   
+- Misc.
+  
+  - [Webmin](webmin.md)
