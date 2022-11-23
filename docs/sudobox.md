@@ -17,6 +17,9 @@ just configure your sudbox to be reachable on your domain.
 **Note: the installation is fully completed after 50 Seconds aprox. after the purchase.**
 
 To configure your Sudobox Installation.
+
+Command:
+
 ```
 sudobox
 ```
