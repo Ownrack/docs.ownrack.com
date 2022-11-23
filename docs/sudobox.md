@@ -3,18 +3,24 @@
 ## What is sudobox
 SudoBox is an Open Source Cloud Media Management Solution in massive development.
 
-## Pre-requisites
+## Requirements
 
 SudoBox requires multiple things like Domain,Cloudflare account (Free) and etc...
 
 ![SudoBox Photo](https://github.com/sudobox-io/sb-install/blob/master/sb-installer.png?raw=true)
 
-## Install
+## Post Installation.
 
+If you selected a Custom Script Install.
+just configure your sudbox to be reachable on your domain.
+
+**Note: the installation is fully completed after 50 Seconds aprox. after the purchase.**
+
+To configure your Sudobox Installation.
 ```
-curl -fsSl https://raw.githubusercontent.com/sudobox-io/sb-install/master/install.sh | sudo bash && exec sudo su -l ${SUDO_USER:-$USER}
-sb
+sudobox
 ```
+
 
 ## Sudobox Documentation
 
@@ -26,7 +32,7 @@ We are a passion project with a very small team that also makes contributions to
 
 So what are you waiting for, grab your shark repellent bat spray, join our Discord and become part of the community!
 
-### What is it? yeah
+### What is it?
 
 You can read more about what Sudobox is [here](https://sudobox.io).
 
