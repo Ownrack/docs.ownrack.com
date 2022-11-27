@@ -11,7 +11,9 @@ Thanks to our valued contributors over the past couple of years, you have helped
 
 **You know who you are.** PTS is forever, others will come and go.
 
-----
+## How uploader works.
+![Hawkizz Uploader](_images/uploader.gif)
+_____
     
 ## PTS-MHA commands
 
