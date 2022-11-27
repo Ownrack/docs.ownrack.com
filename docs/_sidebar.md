@@ -1,7 +1,7 @@
 - <b>Media Server toolbox :tv: </b>
   - [SudoBox - Beta](sudobox.md)
   - [PTS-MHA](pts-mha.md)
-  - [Plex, Radarr, Sonarr & Jackett](pts-mha_intermitent-install.md)
+  - [Plex, Radarr, Sonarr & Jackett](radarr_sonarr_plex.md)
 
 - <b>Seedbox Tools :arrow_double_up: </b>
   - [Swizzin](swizzin.md)
