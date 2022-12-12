@@ -2,6 +2,8 @@
   - [SudoBox - Beta](sudobox.md)
   - [PTS-MHA](pts-mha.md)
   - [Plex, Radarr, Sonarr & Jackett](radarr_sonarr_plex.md)
+- <b> OTT/IPTV Servers </b>
+  - [Xui One](Xui_One.md)
 
 - <b>Seedbox Tools :arrow_double_up: </b>
   - [Swizzin](swizzin.md)
